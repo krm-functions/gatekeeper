@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "functions": [
+    {
+      "description": "KRM function for applying Gatekeeper policies against resources",
+      "documentaion": "https://github.com/krm-functions/gatekeeper/blob/main/README.md",
+      "image": "ghcr.io/krm-functions/gatekeeper",
+      "digest": "sha256:123",
+      "builder": "https://github.com/krm-functions/gatekeeper/.github/workflows/build.yaml"
+    }
+  ]
+}
