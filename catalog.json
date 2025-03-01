@@ -5,7 +5,7 @@
       "description": "KRM function for applying Gatekeeper policies against resources",
       "documentaion": "https://github.com/krm-functions/gatekeeper/blob/main/README.md",
       "image": "ghcr.io/krm-functions/gatekeeper",
-      "digest": "sha256:cf5351ed05da0a3dc88d5a6c303155109ce8a2fd553e9c8a11e4b534521fa28e",
+      "digest": "sha256:4d36acb8e421f039cf35b75a4f5c1f433ea19646c5c832724ab71cef857db290",
       "builder": "https://github.com/krm-functions/gatekeeper/.github/workflows/build.yaml"
     }
   ]
