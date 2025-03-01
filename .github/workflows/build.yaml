@@ -42,11 +42,11 @@ jobs:
         uses: peter-evans/create-pull-request@dd2324fc52d5d43c699a5636bcf19fceaa70c284 # v7.0.7
         with:
           token: ${{ github.token }}
-          commit-message: 'Update catalog for ${{ github.sha }}'
-          title: 'Update catalog for ${{ github.sha }}'
+          commit-message: 'Update catalog for build ${{ github.sha }}'
+          title: 'Update catalog.json for build ${{ github.sha }}'
           body: |
             Update catalog.json after release of build ${{ github.sha }}
           labels: automated pr
-          branch: catalog/update-for-${{ github.sha }}
+          branch: catalog/update
           delete-branch: true
           add-paths: catalog.json
