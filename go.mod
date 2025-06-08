@@ -1,8 +1,8 @@
 module github.com/krm-functions/gatekeeper
 
-go 1.23.6
+go 1.24
 
-toolchain go1.24.1
+toolchain go1.24.3
 
 require (
 	github.com/open-policy-agent/gatekeeper/v3 v3.19.1

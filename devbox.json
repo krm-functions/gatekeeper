@@ -3,7 +3,7 @@
   "packages": [
     "cosign@2.4.1",
     "gnumake@4.4.1",
-    "go@1.23.4",
+    "go@1.24.3",
     "golangci-lint@2.1.6",
     "ko@0.15.4",
     "kpt@1.0.0-beta.55",
