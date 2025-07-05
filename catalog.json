@@ -5,7 +5,7 @@
       "description": "Verify Gatekeeper policies against resources",
       "documentation": "https://github.com/krm-functions/gatekeeper/blob/main/README.md",
       "image": "ghcr.io/krm-functions/gatekeeper",
-      "digest": "sha256:d9555d5b70368b47004eecc67028ce08f8f4985af0ec2bbf1fb71d2f2dd5a1dd",
+      "digest": "sha256:5c348b6ee089d843566566140dba2c4b472563e05e5a651b4397775c52274111",
       "builder": "https://github.com/krm-functions/gatekeeper/.github/workflows/build.yaml"
     }
   ]
