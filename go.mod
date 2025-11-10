@@ -7,7 +7,7 @@ toolchain go1.24.3
 require (
 	github.com/open-policy-agent/gatekeeper/v3 v3.19.2
 	k8s.io/apimachinery v0.33.2
-	sigs.k8s.io/kustomize/kyaml v0.20.0
+	sigs.k8s.io/kustomize/kyaml v0.21.0
 	sigs.k8s.io/yaml v1.5.0
 )
 
@@ -104,7 +104,7 @@ require (
 	golang.org/x/net v0.39.0 // indirect
 	golang.org/x/oauth2 v0.26.0 // indirect
 	golang.org/x/sync v0.14.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/term v0.31.0 // indirect
 	golang.org/x/text v0.24.0 // indirect
 	golang.org/x/time v0.11.0 // indirect
